@@ -1,10 +1,10 @@
-<h1 align="center">Hi there, I'm Miskevich Stanislav 
+<h1 align="center">Hi there, I'm Nikolya Saitov 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">🚀Junior Front-end Developer🚀</h3>
-<h3 align="center">Computer science student, IT news writer from Russia</h3>
+<h3 align="center">Computer science student, IT news writer from Saint-Petersburg</h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcat-computer-typing-keyboard-laptop-gif-5081651&psig=AOvVaw0EKVMeNsiSr2odKgJUPIn-&ust=1650016902448000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODAx46mk_cCFQAAAAAdAAAAABAD" width="100"/>
 </div>
 
 ---
