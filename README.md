@@ -1,5 +1,15 @@
 ### Hi there 👋
+👩‍💻 About Me :
+I am a web developer  from Russian.
 
+🔭 I am studying to be a web developer at Yandex.Practicum.
+
+🌱 In my free time, I improve my skills in the frontend and read articles and books about the backend
+
+⚡ Skills: REACT / JS / HTML / CSS
+
+🛠️ Languages and Tools :
+React  CSS  HTML  JavaScript  Git  GitHub  NodeJS 
 <!--
 **nikolaysaitov/nikolaysaitov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
