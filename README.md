@@ -13,9 +13,9 @@
 ### You can reach me at the email in my github profile. Follow my socials.
 
 
-[<img src="https://cdn-icons-png.flaticon.com/128/906/906377.png" height="40em" align="center" alt="Follow MiskevichStanislav on Telegram" title="Follow MiskevichStanislav on Telegram"/>](https://telegram.com/misapisavlog)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow MiskevichStanislav on Twitter"/>](https://twitter.com/misapisavlog)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Misapisavlog on Instagram"/>](https://instagram.com/misapisavlog)
+[<img src="https://cdn-icons-png.flaticon.com/128/906/906377.png" height="40em" align="center" alt="Follow nikolay_saitov on Telegram" title="Follow nikolay_saitov on Telegram"/>](https://telegram.com/nikolay_saitov)
+
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow nikolay_saitov on Instagram" title="Follow Misapisavlog on Instagram"/>](https://instagram.com/nikolay_saitov)
 
 ---
 
