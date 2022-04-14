@@ -5,8 +5,9 @@ I am a web developer  from Saint-Petersburg.
 🔭 I am studying to be a web developer at Yandex.Practicum.
 
 ⚡ Skills: REACT / JS / HTML / CSS 
+<div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg">
-
+</div>
 🛠️ Languages and Tools :
 React  CSS  HTML  JavaScript  Git  GitHub  NodeJS 
 <!--
