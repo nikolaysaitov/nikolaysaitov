@@ -1,10 +1,8 @@
 ### Hi there 👋
 👩‍💻 About Me :
-I am a web developer  from Russian.
+I am a web developer  from Saint-Petersburg.
 
 🔭 I am studying to be a web developer at Yandex.Practicum.
-
-🌱 In my free time, I improve my skills in the frontend and read articles and books about the backend
 
 ⚡ Skills: REACT / JS / HTML / CSS
 
