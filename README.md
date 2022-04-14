@@ -1,14 +1,33 @@
-### Hi there 👋
-👩‍💻 About Me :
-I am a web developer  from Saint-Petersburg.
+<h1 align="center">Hi there, I'm Miskevich Stanislav 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">🚀Junior Front-end Developer🚀</h3>
+<h3 align="center">Computer science student, IT news writer from Russia</h3>
 
-🔭 I am studying to be a web developer at Yandex.Practicum.
-
-⚡ Skills: REACT / JS / HTML / CSS 
-<div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="40" height="40">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+---
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+
+### You can reach me at the email in my github profile. Follow my socials.
+
+
+[<img src="https://cdn-icons-png.flaticon.com/128/906/906377.png" height="40em" align="center" alt="Follow MiskevichStanislav on Telegram" title="Follow MiskevichStanislav on Telegram"/>](https://telegram.com/misapisavlog)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow MiskevichStanislav on Twitter"/>](https://twitter.com/misapisavlog)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Misapisavlog on Instagram"/>](https://instagram.com/misapisavlog)
+
+---
+
+### :woman_technologist: About Me :
+I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint-Petersburg.
+
+- :telescope: I am studying to be a web developer at Yandex.Practicum.
+
+- :seedling: In my free time, I improve my skills in the frontend and read articles and books about the backend
+
+- :zap: Skills: REACT / JS / HTML / CSS  
+
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -23,17 +42,8 @@ I am a web developer  from Saint-Petersburg.
 </div>
 
 ---
-<!--
-**nikolaysaitov/nikolaysaitov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :fire: My Stats :
 
-Here are some ideas to get you started:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikolaysaitov&theme=dark&background=000000)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaysaitov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
