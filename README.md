@@ -8,9 +8,9 @@
 </div>
 
 ---
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+## 📫 Связь со мной:
 
-### You can reach me at the email in my github profile. Follow my socials.
+### Можете написать мне на электропочту моего github профиля. Либо в соц. сетях:
 
 
 [<img src="https://cdn-icons-png.flaticon.com/128/906/906377.png" height="40em" align="center" alt="Follow nikolay_saitov on Telegram" title="Follow nikolay_saitov on Telegram"/>](https://telegram.com/nikolay_saitov)
@@ -18,17 +18,17 @@
 
 ---
 
-### :woman_technologist: About Me :
-I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint-Petersburg.
+### :woman_technologist: Обо мне :
+Я веб-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Санкт-Петербурга.
 
-- :telescope: I am studying to be a web developer at Yandex.Practicum.
+- :telescope: В данный момент прохожу курс Яндекс.Практикум.
 
-- :seedling: In my free time, I improve my skills in the frontend and read articles and books about the backend
+- :seedling: В свободное время всегда изучаю что-то новое касаемо программирования. 
 
 - :zap: Skills: REACT / JS / HTML / CSS  
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Мой стэк :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -41,7 +41,7 @@ I am a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 </div>
 
 ---
-### :fire: My Stats :
+### :fire: Моя статистика :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikolaysaitov&theme=dark&background=000000)](https://git.io/streak-stats)
 
