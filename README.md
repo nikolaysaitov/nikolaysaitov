@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Nikolay Saitov 
+<h1 align="center">Привет! Меня зовут Николай Саитов 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">🚀Junior Front-end Developer🚀</h3>
-<h3 align="center">Computer science student, IT news writer from Saint-Petersburg</h3>
+<h3 align="center">🚀Начинающий Front-end Developer🚀</h3>
+<h3 align="center">Студент курса Веб-разработчик, платформа Яндекс.Практикум</h3>
 
 <div id="header" align="center">
   <img src="https://c.tenor.com/NZqiUoAnAFsAAAAS/cat-computer.gif" width="100"/>
