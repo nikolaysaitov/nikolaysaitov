@@ -1,6 +1,6 @@
 <h1 align="center">Привет! Меня зовут Николай Саитов 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">🚀Начинающий Front-end Developer🚀</h3>
+<h3 align="center">🚀Front-end Developer🚀</h3>
 <h3 align="center">Студент курса Веб-разработчик, платформа Яндекс.Практикум</h3>
 
 <div id="header" align="center">
