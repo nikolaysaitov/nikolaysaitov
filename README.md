@@ -11,7 +11,7 @@
 ### Можете написать мне на электропочту моего github профиля. Либо в соц. сетях:
 
 
-[<img src="https://cdn-icons-png.flaticon.com/128/906/906377.png" height="40em" align="center" alt="Follow nikolay_saitov on Telegram" title="Follow nikolay_saitov on Telegram"/>](https://telegram.com/nikolay_saitov)
+[<img src="https://cdn-icons-png.flaticon.com/128/906/906377.png" height="40em" align="center" alt="Follow nikolay_saitov on Telegram" title="Follow nikolay_saitov on Telegram"/>](https://t.me/nikolay_saitov)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow nikolay_saitov on Instagram" title="Follow Misapisavlog on Instagram"/>](https://instagram.com/nikolay_saitov)
 
 ---
