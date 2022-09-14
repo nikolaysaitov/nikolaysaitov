@@ -19,7 +19,7 @@
 ### :woman_technologist: Обо мне :
 Я веб-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Санкт-Петербурга.
 
-- :telescope: В данный момент прохожу курс Яндекс.Практикум.
+- :telescope: В данный момент изучаю React.
 
 - :seedling: В свободное время всегда изучаю что-то новое из области разработки. 
 
