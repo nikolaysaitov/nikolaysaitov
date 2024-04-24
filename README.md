@@ -1,6 +1,5 @@
 <h1 align="center">Hello! My name is Nikolay Saitov 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">🚀Web Developer🚀</h3>
 <div id="header" align="center">
   <img src="https://c.tenor.com/NZqiUoAnAFsAAAAS/cat-computer.gif" width="100"/>
 </div>
@@ -18,7 +17,7 @@
 ---
 
 ### :woman_technologist: About me :
-Я веб-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Санкт-Петербурга.
+I'm a frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :zap: Skills: REACT / TypeScript / JavaScript / Redux / HTML / CSS  
 
