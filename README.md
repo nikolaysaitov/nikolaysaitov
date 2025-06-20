@@ -9,7 +9,7 @@
 
 ### You can email me on my github profile. Or on social media networks:
 
-[<img src="https://cdn-icons-png.flaticon.com/128/906/906377.png" height="40em" align="center" alt="Follow nikolay_saitov on Telegram" title="Follow nikolay_saitov on Telegram"/>](https://t.me/nikolay_saitov)
+[<img src="https://cdn-icons-png.flaticon.com/128/906/906377.png" height="40em" align="center" alt="Follow nikolay_saitov on Telegram" title="Follow nikolay_saitov on Telegram"/>](https://t.me/@korben_dallas_multi_pass)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow nikolay_saitov on LinkedIn" title="Follow Nikolay Saitov on LinkedIn"/>](https://www.linkedin.com/in/nikolay-saitov/)
 
               
